@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="sound_mix_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="15.0616212526" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="ARTIST" value="&#x009d;ÉÒ°ºëÖ®"/>
+		<tag name="ALBUM" value="Çà¤ÎìðÄ§&#x008e;&#x009f; Plugless"/>
+		<tag name="tempo" value="00000 BPM"/>
+		<tag name="GENRE" value="Anime"/>
+		<tag name="iTunes_CDDB_TrackNumber" value="9"/>
+		<tag name="totaltracks" value="13"/>
+		<tag name="YEAR" value="2013"/>
+		<tag name="iTunNORM" value=" 0000162B 0000140F 0000CD7F 00008E2B 000269F5 0001B277 00007FFC 00007FFC 00009949 0000A758"/>
+		<tag name="TITLE" value="U &amp; Cloud (simpledess)"/>
+		<tag name="tool" value="iTunes 11.0.4.4"/>
+		<tag name="Encoding Params" value="vers"/>
+		<tag name="iTunSMPB" value=" 00000000 00000840 00000024 000000000097479C 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000"/>
+		<tag name="iTunes_CDDB_1" value="BE0CB10D+243872+13+150+18566+34024+56808+76497+95594+110029+134210+151459+168320+183588+203527+221734"/>
+		<tag name="TRACKNUMBER" value="9"/>
+	</tags>
+	<wavetrack name="Hiroyuki Sawano - U &amp; Cloud (simpledess) [pleer.net]" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1777279">
+				<waveblock start="0">
+					<simpleblockfile filename="e00018bc.au" len="148043" min="-0.654039" max="0.776605" rms="0.114163"/>
+				</waveblock>
+				<waveblock start="148043">
+					<simpleblockfile filename="e00016c5.au" len="148044" min="-0.530226" max="0.688836" rms="0.107731"/>
+				</waveblock>
+				<waveblock start="296087">
+					<simpleblockfile filename="e0000c84.au" len="262144" min="-0.635805" max="0.748868" rms="0.13101"/>
+				</waveblock>
+				<waveblock start="558231">
+					<simpleblockfile filename="e000067d.au" len="262144" min="-0.673946" max="0.766959" rms="0.14093"/>
+				</waveblock>
+				<waveblock start="820375">
+					<simpleblockfile filename="e0000b43.au" len="262144" min="-0.874849" max="0.993825" rms="0.140617"/>
+				</waveblock>
+				<waveblock start="1082519">
+					<simpleblockfile filename="e0000d14.au" len="262144" min="-0.975781" max="0.994523" rms="0.187274"/>
+				</waveblock>
+				<waveblock start="1344663">
+					<simpleblockfile filename="e00007ab.au" len="262144" min="-0.992961" max="0.989859" rms="0.194734"/>
+				</waveblock>
+				<waveblock start="1606807">
+					<simpleblockfile filename="e000100d.au" len="170472" min="-0.931646" max="0.864182" rms="0.175545"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Hiroyuki Sawano - U &amp; Cloud (simpledess) [pleer.net]" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1777279">
+				<waveblock start="0">
+					<simpleblockfile filename="e000188a.au" len="148043" min="-0.932921" max="0.833566" rms="0.125487"/>
+				</waveblock>
+				<waveblock start="148043">
+					<simpleblockfile filename="e0001d43.au" len="148044" min="-0.637455" max="0.596708" rms="0.12241"/>
+				</waveblock>
+				<waveblock start="296087">
+					<simpleblockfile filename="e0000026.au" len="262144" min="-0.766151" max="0.790487" rms="0.14512"/>
+				</waveblock>
+				<waveblock start="558231">
+					<simpleblockfile filename="e000057d.au" len="262144" min="-0.798903" max="0.705082" rms="0.152556"/>
+				</waveblock>
+				<waveblock start="820375">
+					<simpleblockfile filename="e0000bed.au" len="262144" min="-0.882066" max="0.762517" rms="0.142356"/>
+				</waveblock>
+				<waveblock start="1082519">
+					<simpleblockfile filename="e0000cef.au" len="262144" min="-0.994008" max="0.926958" rms="0.184069"/>
+				</waveblock>
+				<waveblock start="1344663">
+					<simpleblockfile filename="e0000e7c.au" len="262144" min="-0.99476" max="0.999875" rms="0.194408"/>
+				</waveblock>
+				<waveblock start="1606807">
+					<simpleblockfile filename="e0001fa7.au" len="170472" min="-1.000792" max="0.793308" rms="0.170305"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
