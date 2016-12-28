@@ -12,9 +12,9 @@ sphereName = sphereTransform[0]
 cubeName = cubeTransform[0]
 
 # instantiate light spheres
-for i in range (0, 1):
+for i in range (0, 5):
     # create light group
-    lightGroup = cmds.group(empty=True, name=sphereName+'_grp#')
+    lightGroup = cmds.group(empty=True, name=sphereName+'_grp')
 
     sphereInstance = cmds.instance(sphereName, name=sphereName+'_instance#')
     cmds.parent(sphereInstance, lightGroup)
@@ -75,7 +75,7 @@ for i in range (0, 1):
                         '%s.%sW1' % (pointConstraintName, locatorName))
 
         cmds.xform(locatorGroupName, centerPivots=True)
-
-    cmds.delete(sphereTransform)
-    cmds.delete(cubeTransform)
     cmds.xform(cubeGroup, centerPivots=True)
+
+cmds.delete(sphereTransform)
+cmds.delete(cubeTransform)
