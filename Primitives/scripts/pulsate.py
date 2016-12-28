@@ -2,6 +2,7 @@ import maya.cmds as cmds
 
 selectionList = cmds.ls(orderedSelection=True, type='transform')
 
+# aims at first target
 if len(selectionList) >= 2:
 
 	targetName = selectionList[0]
