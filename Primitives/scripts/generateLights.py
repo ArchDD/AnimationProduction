@@ -1,3 +1,5 @@
+# Based on scripts provided by  Autodesk Scripting and SDK Learning Channel: Introduction to Python Scripting in Maya
+
 import maya.cmds as cmds
 import random
 
